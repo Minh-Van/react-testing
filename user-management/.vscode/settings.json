@@ -1,0 +1,9 @@
+{
+  "java.configuration.updateBuildConfiguration": "disabled",
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "explorer.experimental.fileNesting.enabled": "true",
+  "explorer.fileNesting.expand": false,
+}
